@@ -6,6 +6,11 @@
   },
     {
     "name": "page1",
+    "version": 2,
+    "link": "https://github.com/ehwuifcnjcde/atbrzr/raw/refs/heads/main/page1.zip"
+  },
+    {
+    "name": "page2",
     "version": 1,
     "link": "https://github.com/ehwuifcnjcde/atbrzr/raw/refs/heads/main/page1.zip"
   }
